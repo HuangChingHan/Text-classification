@@ -1,4 +1,4 @@
-# Text classification using Multinominal Naive Bayes
+# Text classification using Multinominal Naive Bayes :mag:
 Reference: [Text Classification using Algorithms](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)  
 Author: gk_
 
